@@ -1,0 +1,1 @@
+This is some text written inside the input.txt file! Run node file-read-write.mjs to read this file and write it to output.txt file!
